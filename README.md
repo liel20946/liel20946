@@ -1,4 +1,24 @@
-### Hi there 👋
+## Hi there! 👋
+
+I'm Liel Azulay, a software engineer passionate about programming and machine learning. Welcome to my GitHub profile!
+
+## About Me
+
+I'm a software engineer based in Jerusalem, Israel. My journey in the tech world has been filled with exciting projects and continuous learning. I'm enthusiastic about exploring new technologies and building innovative solutions. In my free time, I enjoy playing the piano.
+
+## Skills
+
+- Programming Languages: C, C++,C#, Python, Java, Kotlin, JavaScript, Node.js, React, SQL.
+- Tools: Unity, Android Studio, Linux OS, Git, VS code, JetBrains Tools.
+
+## 📫 Get in Touch
+
+- LinkedIn: [https://www.linkedin.com/in/liel-azulay-330536181/]
+- Email: liel999999@gmail.com
+
+
+Thanks for stopping by! 😊
+
 
 <!--
 **liel20946/liel20946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
