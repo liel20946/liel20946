@@ -13,7 +13,7 @@ I'm a software engineer based in Jerusalem, Israel. My journey in the tech world
 
 ## 📫 Get in Touch
 
-- LinkedIn: [https://www.linkedin.com/in/liel-azulay-330536181/]
+- LinkedIn: https://www.linkedin.com/in/liel-azulay-330536181
 - Email: liel999999@gmail.com
 
 
