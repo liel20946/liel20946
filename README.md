@@ -9,7 +9,13 @@ I'm a software engineer based in Jerusalem, Israel. My journey in the tech world
 ## Skills
 
 - Programming Languages: C, C++,C#, Python, Java, Kotlin, JavaScript, Node.js, React, SQL.
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin,js,nodejs,react,sqlite&perline=5)](https://skillicons.dev)
+  
 - Tools: Unity, Android Studio, Linux OS, Git, VS code, JetBrains Tools.
+
+[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,linux,git,vscode)](https://skillicons.dev)
+ 
 
 ## 📫 Get in Touch
 
