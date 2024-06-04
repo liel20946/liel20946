@@ -14,7 +14,7 @@ I'm a software engineer based in Jerusalem, Israel. My journey in the tech world
   
 - Tools: Unity, Android Studio, Linux OS, Git, VS code, JetBrains Tools.
 
-[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,linux,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,linux,git,github,vscode,pycharm,idea,rider,clion&perline=5)](https://skillicons.dev)
  
 
 ## 📫 Get in Touch
